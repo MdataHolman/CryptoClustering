@@ -12,12 +12,11 @@ The deliverables are the following:
 
 1. Finding the best k value. The k value found is equal to 4.
 
-   ![image](https://github.com/MdataHolman/CryptoClustering/assets/147290574/8968e572-4eca-4131-8704-a
+   ![image](https://github.com/MdataHolman/CryptoClustering/assets/147290574/8968e572-4eca-4131-8704-a9bbc9a577e1)
 
    ![image](https://github.com/MdataHolman/CryptoClustering/assets/147290574/e134a4b7-d76e-41c3-a8e9-a6c241738157)
-9bbc9a577e1)
 
-2. Clustering with K-Means
+3. Clustering with K-Means
 
    ![image](https://github.com/MdataHolman/CryptoClustering/assets/147290574/140166be-6393-4784-a1fb-a3267d1ad43f)
 
@@ -25,17 +24,17 @@ The deliverables are the following:
 
    The total explained variance of the three principal components equals 0.88862186.
 
-3. Optimizing the clusters with principal component analysis and finding the best value for k using the PCA data. 
+4. Optimizing the clusters with principal component analysis and finding the best value for k using the PCA data. 
 
    ![image](https://github.com/MdataHolman/CryptoClustering/assets/147290574/ed7ed973-b191-469f-bf7b-7f1ec0d89a43)
 
-4. Clustering the cryptocurrencies with k-means using PCA data.
+5. Clustering the cryptocurrencies with k-means using PCA data.
 
    ![image](https://github.com/MdataHolman/CryptoClustering/assets/147290574/381ca8f2-0459-4901-816c-c43c026f57e5)
 
    ![image](https://github.com/MdataHolman/CryptoClustering/assets/147290574/fdab8d3c-57be-4e88-b312-bb6cfcbd878c)
 
-5. Visualize the composite plot using the (+) operator shown below
+6. Visualize the composite plot using the (+) operator shown below
 
    ![image](https://github.com/MdataHolman/CryptoClustering/assets/147290574/a2c2ffee-08ae-4c59-bc22-c9202e55dd78)
 
