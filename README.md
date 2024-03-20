@@ -1,7 +1,8 @@
 # CryptoClustering
+
 Module 19 Challenge
 
-In this challenge ask to predict if cryptocurrencies are affected by price changes. This challenge utilized Python and unsupervised learning. 
+In this challenge ask to predict if cryptocurrencies are affected by price changes. This challenge utilized Python and unsupervised learning on Jupyter Notebook. 
 
 This is the original data frame on the plot. 
 
